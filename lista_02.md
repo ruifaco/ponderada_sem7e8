@@ -50,7 +50,7 @@ C) O código avalia a expressão booleana, imprime `true` e, em seguida, verific
 
 D) O código avalia a expressão booleana, imprime `false` e ordena os valores em ordem crescente.
 
-`Item a. O resultado é true porque ele considera o resto = 1 da divisão entre 10 e 3 e isso está correto. Além disso, faz 12 > 10, que também tá correto. E por último, 9 < 10, que está correto também. Na segunda parte, j começa em 0 e vai aumentando um por um. Então, quando j é 0, o código faz produto = 1 * valor que está na posição 0 do array, que é o 3. Então, o valor do produto passa de 1 para 3 e assim vão se fazendo multiplicações sucessivas até o valor de j for 4 e assim acontece a última multiplicação e o código para.`
+```Item a. O resultado é true porque ele considera o resto = 1 da divisão entre 10 e 3 e isso está correto. Além disso, faz 12 > 10, que também tá correto. E por último, 9 < 10, que está correto também. Na segunda parte, j começa em 0 e vai aumentando um por um. Então, quando j é 0, o código faz produto = 1 * valor que está na posição 0 do array, que é o 3. Então, o valor do produto passa de 1 para 3 e assim vão se fazendo multiplicações sucessivas até o valor de j for 4 e assim acontece a última multiplicação e o código para.```
 
 ---
 
@@ -118,7 +118,7 @@ C) analisarCredito1() exibirá: 'Seu crédito foi negado. Saldo disponível: -20
 
 D) Ambas as funções exibirão: 'Seu crédito foi aprovado Saldo disponível: 500.'
 
-``item A. As duas funções tem estruturas diferentes devido a retirada do "do", mas a função ainda faz o mesmo papel e imprime o mesmo resultado.`
+```item A. As duas funções tem estruturas diferentes devido a retirada do "do", mas a função ainda faz o mesmo papel e imprime o mesmo resultado.```
 
 ---
 
@@ -147,7 +147,7 @@ C) O código verifica se a idade está entre 18 e 60 anos e, se for, imprime "Vo
 
 D) O código verifica se a idade é menor de 18, entre 18 e 60 ou acima de 60, imprimindo uma mensagem específica para cada caso.
 
-`Item B.`
+```Item B.```
 
 ---
 
@@ -231,7 +231,7 @@ Dispositivo 4 não pode ser ligado. Energia insuficiente.
 
 Dispositivo 5 não pode ser ligado. Energia insuficiente.
 
-## `Item D`
+ ```Item D``` 
 
 **5)** Qual é a principal função do método update() em um jogo desenvolvido com Phaser.js?
 
@@ -245,7 +245,7 @@ C) O método update() renderiza todos os sprites na tela e garante que a física
 
 D) O método update() é chamado apenas uma vez após a criação da cena, sendo utilizado para configurar variáveis iniciais do jogo.
 
-`Item B`
+```Item B```
 
 ---
 
@@ -261,7 +261,7 @@ C) Renderizar gráficos otimizados para jogos 2D e garantir uma taxa de quadros 
 
 D) Criar animações automáticas para sprites e objetos interativos sem necessidade de programação de movimentação.
 
-`Item A`
+```Item A```
 
 ---
 
